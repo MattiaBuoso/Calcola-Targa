@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "519a578e-161c-4e6f-a57d-feabc7b75fbe": {
+      "ProjectGuid": "519a578e-161c-4e6f-a57d-feabc7b75fbe",
+      "DisplayName": "Calcola Targa",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
